@@ -1,3 +1,6 @@
+Based on tutorial:
+https://examples.javacodegeeks.com/software-development/amazon-aws/tutorial-use-aws-lambda-s3-real-time-data-processing/
+
 To make it work, following actions need to be done:
 1) create new Lambda for each java file into AWS
 
